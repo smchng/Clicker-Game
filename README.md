@@ -1,1 +1,3 @@
 # Clicker-Game
+
+This is a clicker game is programmed in Processing which is based on the popular show and game Pokemon. I used one of the show's characters, Diglett, as the main subject of the game as well as the concept of visiting the Pokemon centre to buy pokeballs. The goal of the game is to catch the most Digletts with the amount of pokeballs you have. You are able to obtain more balls by clicking the Pokemon centre at the bottom right on the window. When you collect more Digletts, you earn badges which are based on Pokemon badges in the game. The Digletts respawn after a few seconds and move in a linear but random direction.
